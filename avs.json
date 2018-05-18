@@ -1,0 +1,10 @@
+{
+    "refreshToken": "", 
+    "product_id": "my_device", 
+    "access_token": "Atza|IwEBIIiKgKjTZ3JdD33liI1JTNpZxjQ1a8FCl_3l5hJO11P904EK8PSE-YRrwpRQcwb6uO3W7BkaGVLyjNbTD0gmj4rXMwO2HPqaNVWFIPOh6PDB6pAkrno2zwIFwKV0JKUz8Sd1dFO3y-1bm5EVXfmVHoU3_rydXQr_UM0pUe4gah7DFZyVgppyr887O6sDqzofxPfO-zFhbnGuMkhAQ1PQPv5xjeiz5w2AAyZV-mPCmDKYxPfFfptg3JfLyU-mF8aAoUHAJewUSK_vg0E8rKgkdUEwFuS-T0gx_h2MS58Rt5Ps0N0aIOEapt6KZtMEKOGJM3QSMLny5jVsShbTMRnw2OZdsTVBNCntZqV6eAWigGUTQSPIS74TH6I_7PdjR0pFMu4q74ap2o0sHppJk3ErFLG-ps5Acc_VU2a15QtewBuJXaqguGfT4WGg92BTW9B6majm8mM9t7e3wem3Nn1cUQLTDtj1eLdnseMN9m-zmFTpiHglGkEVKyWIemqrErNYG-kIDpGisMpNe00G3ObR6Awy", 
+    "deviceSerialNumber": "1234567", 
+    "expiry": "Fri May 18 08:30:21 2018", 
+    "client_id": "amzn1.application-oa2-client.22ae1269589345118862b9ebf3af3ba5", 
+    "client_secret": "86f11f6a8160bc3df63937c4c036a193c6e0353b7a97398548e96b1e8134c534", 
+    "refresh_token": "Atzr|IwEBIK-YDVGPoXr17zkpmtUwTJJXfU5uirx8Ou3WmE2KsKwGhoc6qHn74Ycbv4MjQRqdcI_OWsRObZ8XugikZbfXn2LrkkheKfIFVUbYID2mrsa0nf9W47mdVfpM_LgUuB3edQx2acVm_x8oobGE0Xhl4GJYMZcqlmacQHIIUmJC-fdh4mRzg_iFQy8GckUH6P5TlR3KBDaMp24IfaTOYWajMwEAt_vhU9_hlaGg6Om1DoxY7dTMYkyoUl7WMdYJRH5EC7xc1Ry1kURRJ9hXRF-Me_Rc99e3_FY3x75iZ2R-Uxl5Rk6CofDRO5_1q63JRnyMBkZS9dp0FEFWxfPcUUkxOZDBHeVzH4fxIY2WsxZfQHr8BIrZcdsi-hzZa74PCJ8rr5Tek52SXpmXqf6rPYRxtuLCQ3AD73VFILIhZEZEApPI8RbNGv5Cy91x_7o9vj6rRNf3aFnJsZt63j3gOgO5qFFasXdxGxkxvguYjf0YrwN5nJdCC5EkUhgeeH-N-y5xITF2I2zLBGyvnygHxtm4r8Jm"
+}
